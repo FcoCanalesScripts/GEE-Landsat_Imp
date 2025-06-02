@@ -1,8 +1,8 @@
-# NDVI Lago Yelcho
-Este script en Google Earth Engine genera un mapa NDVI promedio para el Lago Yelcho durante el año 2020, usando imágenes de LANDSAT 8.
+# NIR Lago Yelcho
+Este script en Google Earth Engine genera un mapa NIR para el Lago Yelcho para los años 1985 y 2023, usando imágenes de LANDSAT 8.
 
 ## Cómo usarlo
 1. Abre https://code.earthengine.google.com
 2. Crea un nuevo script
-3. Copia y pega el contenido del archivo `ndvi_lago_yelcho.js`
+3. Copia y pega el contenido del archivo `nir_lago_yelcho.js`
 4. Ajusta la ubicación o fechas si lo deseas
